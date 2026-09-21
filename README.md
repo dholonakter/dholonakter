@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I am Dholon Akter 👋
 
-<!--
-**dholonakter/dholonakter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
+- 🔭 I am currently working as a backend developer at **Bee-Organization**.
+- 🌱 Through organizational and personal projects, I am expanding my knowledge of **C#, SQL, and JavaScript** to become a full-stack software engineer.
+- 🧠 I'm passionate about researching the core patterns behind technical problems, such as software architecture and design principles.
 
-Here are some ideas to get you started:
+### ⚡ Fun Facts
+- 📚 I enjoy reading and traveling.
+- 🍳 I love creating new recipes and dancing.
+- 💃 I taught **seven dance workshops in Eindhoven** last year!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** C#, JavaScript
+- **Databases:** SQL, MySQL, PostgreSQL, and  MongoDB
+- **Focus:** Backend development, software architecture, software design, and UI/UX
+
+### 💪 Strengths
+- Research
+- Problem-solving
+- Creativity
+- Leadership
+- Collaboration
